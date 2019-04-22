@@ -1,0 +1,33 @@
+1) Diagram Aktywności:
+Pzedstawia zakres odpowiedzialności klienta oraz administratora, 
+w którym zawarty jest przebieg całej transakcji.
+2) Diagram Klas:
+Umieszczony tutaj diagram prezentuję strukturę systemu wypożyczalni samochodu,
+w którym znajdują się klasy w nich metody oraz ogólnie zależności między nimi.
+3) Diagram Komponentów:
+Diagram Kompozytów złożony jest: baza.dll, GUI, platnosci.ddl, Klient\Admin account, 
+które są ze sobą połaczone w logiczny sposób tworząc działający system na przestrzeni fizycznej.
+4) Diagram Kooperacji:
+Zrobiony został po to by bez trudo krok po kroku system wiedział jak ma zażądzać 
+komunikacją miedzy Klientem, Administratorem, a samą bazą samochodów. 
+5) Diagram Obiektów:
+Obrazuje obiekty Użytkownik, Administrator, Klient, Zamówienia oraz jego szczegóły,
+których cechy są unikatowe i indywidulane dla danego obiektu.
+6) Diagram Przebiegu:
+Prezentuje tak zwaną linie życia Klienta, Admina oraz Bazy samochodówo, na których
+widnieją metody z przeznczonymi dla nich typami danych w odpowienio zaplanowany sposób.
+7) Diagram Przypadkow Użucia:
+W przyjazny sposób widać jak przebiega usługa związana z zamówieniami, który
+system świadczy aktorom(klientom).
+8) Diagram Stanów:
+Diagram został stworzony by analizować możliwe stany płatności, które powodują 
+złożenie, anulowanie, opłacone, nieoplacone, w trakcie oraz zakonczone stany obiektu. 
+9) Diagram Wdrążenia:
+Struktura, która łączy fizyczne komponenty potrzebne do komunikacji całego systemu
+w szczególności w jaki sposób Klient będzie komunikował się z bazą danych aż po Administratora.
+
+
+Projekt UML: System Wypożyczalni Samochodów 
+Przygotował: Bartosz Suski(291956) Gr. LE     
+ 
+
